@@ -3,6 +3,5 @@
 
 
 ### 📝 Файлы:
-- **ConsoleApp1.cpp** 
-- **poyasnenie№3.docx**
-- **README.md**
+- **yakor.html** 
+
